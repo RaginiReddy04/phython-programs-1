@@ -1,0 +1,4 @@
+first_name='ragini'
+last_name='paluru'
+name=first_name+" "+last_name
+print("name:",name)
